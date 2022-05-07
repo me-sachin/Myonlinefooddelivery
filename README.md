@@ -1,5 +1,5 @@
 # Myonlinefooddelivery
-Website Project for Online food ordering Using  HTML &amp; CSS
+Website Project for Online food ordering Using  HTML  &amp; CSS
 The Screenshorts of the website  are follows -:
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/68479220/155335222-50e64757-295a-46f6-b5ef-b8aea61137e7.png)
